@@ -47,7 +47,7 @@ packages <- c(
 # Uncomment the next lines (remove the first #) to install the packages
 install.packages(packages)
 remotes::install_github("hrbrmstr/hrbrthemes")
-Load standard packages
+#Load standard packages
 library(ggplot2)
 ```
 
